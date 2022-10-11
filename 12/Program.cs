@@ -6,11 +6,12 @@ Console.WriteLine("Введите первое число: ");
 int number = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите второе число: ");
 int number2 = int.Parse(Console.ReadLine()!);
+int result = number % number2;
 if (number % number2 == 0)
 {
 Console.WriteLine($"Число {number} кратно {number2}");
 }
 else
 {
-   Console.WriteLine($"Число {number} не кратно {number2}, остаток - {number % number2}"); 
+   Console.WriteLine($"Число {number} не кратно {number2}, остаток - {result}"); 
 }
