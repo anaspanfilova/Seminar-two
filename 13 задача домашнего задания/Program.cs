@@ -3,12 +3,25 @@
 Console.Clear();
 Console.WriteLine("Введите число: ");
 int num = int.Parse(Console.ReadLine()!);
-if (num > 99)
+int x = num / 10;
+int y = x;
+if (x >= 10 || x < -10)
 {
- int a = num % 10;
- Console.WriteLine($"Вторая цифра числа {num} -> {a}");   
+    while (num > 999 || num < -999)
+    {
+        num = num / 10;
+    }
+    if (num < 0)
+    {
+        num = -num;
+        Console.WriteLine($"Вторая цифра числа {y} -> {(num % 10)}"); 
+    }
+    else
+    {
+      Console.WriteLine($"Вторая цифра числа {y} -> {(num % 10)}");   
+    }
 }
 else
 {
- Console.WriteLine($"Третьей цифры нет");
+    Console.WriteLine($"Третьей цифры нет");
 }
