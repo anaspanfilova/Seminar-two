@@ -1,0 +1,15 @@
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\bin\Debug\net6.0\15 задача домашней работы.exe
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\bin\Debug\net6.0\15 задача домашней работы.deps.json
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\bin\Debug\net6.0\15 задача домашней работы.runtimeconfig.json
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\bin\Debug\net6.0\15 задача домашней работы.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\bin\Debug\net6.0\15 задача домашней работы.pdb
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\obj\Debug\net6.0\15 задача домашней работы.csproj.AssemblyReference.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\obj\Debug\net6.0\15 задача домашней работы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\obj\Debug\net6.0\15 задача домашней работы.AssemblyInfoInputs.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\obj\Debug\net6.0\15 задача домашней работы.AssemblyInfo.cs
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\obj\Debug\net6.0\15 задача домашней работы.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\obj\Debug\net6.0\15 задача домашней работы.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\obj\Debug\net6.0\refint\15 задача домашней работы.dll
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\obj\Debug\net6.0\15 задача домашней работы.pdb
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\obj\Debug\net6.0\15 задача домашней работы.genruntimeconfig.cache
+C:\Users\Анастасия\OneDrive\Рабочий стол\2 Семинар по C#\Seminar-two\15 задача домашней работы\obj\Debug\net6.0\ref\15 задача домашней работы.dll
