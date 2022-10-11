@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Свтофор\\.nuget\\packages\\": {}
+    "C:\\Users\\Анастасия\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Свтофор\\OneDrive\\Рабочий стол\\семинар 2\\13 задача домашнего задания\\13 задача домашнего задания.csproj",
+      "projectUniqueName": "C:\\Users\\Анастасия\\OneDrive\\Рабочий стол\\2 Семинар по C#\\Seminar-two\\13 задача домашнего задания\\13 задача домашнего задания.csproj",
       "projectName": "13 задача домашнего задания",
-      "projectPath": "C:\\Users\\Свтофор\\OneDrive\\Рабочий стол\\семинар 2\\13 задача домашнего задания\\13 задача домашнего задания.csproj",
-      "packagesPath": "C:\\Users\\Свтофор\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Свтофор\\OneDrive\\Рабочий стол\\семинар 2\\13 задача домашнего задания\\obj\\",
+      "projectPath": "C:\\Users\\Анастасия\\OneDrive\\Рабочий стол\\2 Семинар по C#\\Seminar-two\\13 задача домашнего задания\\13 задача домашнего задания.csproj",
+      "packagesPath": "C:\\Users\\Анастасия\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Анастасия\\OneDrive\\Рабочий стол\\2 Семинар по C#\\Seminar-two\\13 задача домашнего задания\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Свтофор\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Анастасия\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
