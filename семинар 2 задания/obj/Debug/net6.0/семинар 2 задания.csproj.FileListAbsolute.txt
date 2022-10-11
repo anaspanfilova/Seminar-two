@@ -1,0 +1,15 @@
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\bin\Debug\net6.0\семинар 2 задания.exe
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\bin\Debug\net6.0\семинар 2 задания.deps.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\bin\Debug\net6.0\семинар 2 задания.runtimeconfig.json
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\bin\Debug\net6.0\семинар 2 задания.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\bin\Debug\net6.0\семинар 2 задания.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\obj\Debug\net6.0\семинар 2 задания.csproj.AssemblyReference.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\obj\Debug\net6.0\семинар 2 задания.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\obj\Debug\net6.0\семинар 2 задания.AssemblyInfoInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\obj\Debug\net6.0\семинар 2 задания.AssemblyInfo.cs
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\obj\Debug\net6.0\семинар 2 задания.csproj.CoreCompileInputs.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\obj\Debug\net6.0\семинар 2 задания.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\obj\Debug\net6.0\refint\семинар 2 задания.dll
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\obj\Debug\net6.0\семинар 2 задания.pdb
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\obj\Debug\net6.0\семинар 2 задания.genruntimeconfig.cache
+C:\Users\Свтофор\OneDrive\Рабочий стол\семинар 2\семинар 2 задания\obj\Debug\net6.0\ref\семинар 2 задания.dll
